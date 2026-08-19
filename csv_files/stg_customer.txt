@@ -1,6 +1,0 @@
-create table stg_customer_new
-(
-);q
-d
-exit()
-
